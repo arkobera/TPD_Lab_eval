@@ -31,8 +31,8 @@ This repository contains a Streamlit-based dashboard for analyzing terrorism dat
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/terrorism-analysis-dashboard.git](https://github.com/arkobera/TPD_Lab_eval.git]
-   cd terrorism-analysis-dashboard
+   git clone [https://github.com/arkobera/TPD_Lab_eval.git]
+   cd TPD_Lab_eval
    ```
 
 2. Install the required libraries:
